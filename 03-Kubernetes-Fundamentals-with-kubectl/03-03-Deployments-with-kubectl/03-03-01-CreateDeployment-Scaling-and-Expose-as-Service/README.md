@@ -14,7 +14,7 @@
 ```
 # Create Deployment
 kubectl create deployment <Deplyment-Name> --image=<Container-Image>
-kubectl create deployment my-first-deployment --image=stacksimplify/kubenginx:1.0.0 
+kubectl create deployment my-first-deployment --image= 
 
 # Verify Deployment
 kubectl get deployments

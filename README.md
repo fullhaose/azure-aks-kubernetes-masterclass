@@ -131,7 +131,7 @@
 
 | Application Name  | Docker Image Name |
 | ----------------- | ----------------- |
-| Simple Nginx V1  | stacksimplify/kubenginx:1.0.0  |
+| Simple Nginx V1  |   |
 | Spring Boot Hello World API  | stacksimplify/kube-helloworld:1.0.0  |
 | Simple Nginx V2  | stacksimplify/kubenginx:2.0.0  |
 | Simple Nginx V3  | stacksimplify/kubenginx:3.0.0  |
